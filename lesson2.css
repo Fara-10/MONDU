@@ -1,0 +1,161 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    margin: 0px;
+}
+.Mondu{
+    letter-spacing: 3px;
+    align-self: center;
+}
+.top{
+    display: flex;
+    gap: 700px;
+    margin : 70px 50px;
+    margin-left: 700px;
+   
+}
+.top,.demo,.menu,.f{
+    align-items: center;
+}
+.demo{
+    display: flex;
+    gap: 5px;
+    align-self: center;
+    
+}
+.f{
+    display: flex;
+    gap: 150px;
+    align-self: center;
+}
+.logotip{
+    width: 150px;
+    height: 200px;
+}
+.down{
+    width: 40px;
+    height: 40px;
+    align-items: baseline;
+}
+.green{
+padding: 10px;
+    line-height: 80px;
+    width: auto;
+    
+    height: auto;
+    background-color: #06B3A8;
+    border-radius: 50px;
+    color: white;
+}
+
+h1{
+   text-align: center;
+   margin-top: 200PX;
+
+}
+
+h3{
+
+    font-weight: lighter;
+    color: rgb(99, 99, 99);
+   text-align: center;
+    
+    
+}
+.bold{
+    font-size: 100px;
+    padding: 20px 0px;
+}
+
+.flex{
+    display: flex;
+   justify-content: space-around    ;
+   padding: 10px 100px;
+}
+.big{
+    width: 250px;
+    height: 250px;
+}
+.dr{
+    color: #2C3948;
+    font-weight: bold;
+    font-size: 70px;
+}
+.n{
+    line-height: 1.3;
+    letter-spacing: 1px;
+}
+.fl{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.p{
+    color: white;
+    letter-spacing: 3px;
+}
+.aaa{
+    width: 100%;
+
+    height: auto;
+}
+
+
+
+.cho{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #001E18;
+
+}
+
+
+
+
+.i3{
+    width: 120px;
+    height: 120px;
+}
+
+
+
+
+.hhh{
+    background-color: #37806B;
+    font-weight: 600;
+    border-top-left-radius:90px ;
+    border-bottom-right-radius:90px ;
+    padding: 10px 30px;
+    color: white;
+    font-size: 80px;
+    border: none;
+}
+.kkkk{
+    margin: 80px 0px;
+    padding-left: 1800px;
+}
+.ppp{
+    width: 50%;
+    height: 300px;
+    padding-left: 1200px;
+}
+.ff{
+    margin-left: 500px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    justify-content: space-between;
+}
+.ii{
+    width: 50%;
+}
+.oo{
+    text-align: left;
+    width: 80%;
+}
